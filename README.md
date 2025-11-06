@@ -18,7 +18,7 @@ The data comes from the **World Bank** and includes several indicators for Franc
 All Excel files are included in the `data/` folder of the repository:
 
 
-**Original source:** [World Bank Open Data] (https://data.worldbank.org====)   
+**Original source:** [World Bank Open Data] 
 
 > **Note:** Files have been cleaned and merged for analysis. All preprocessing steps are detailed in the project notebook.
 
